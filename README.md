@@ -40,7 +40,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' />
+<img src='http://i.imgur.com/2Uzmt2J.gif' />
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="2Uzmt2J"><a href="//imgur.com/2Uzmt2J">Flixster (minimal basic)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with SilentCast (https://github.com/colinkeenan/silentcast).
 
