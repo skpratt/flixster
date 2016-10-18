@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9e7b7df721d08a8a5e2c154cf5efcd2f5917deba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_38ab75974bd92aaed6b3be699cf9739a3176fda2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ca02c240581bb3ada6321b66085ef9485baabd79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_da3e889b9c9df9c5145eccb4d64ab5341a40b184/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_0015e71d83d44761556e2f9cf389ccb9d28312f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_779dbb653c609096c01328e0cf782e18f02747bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="97852008cd0e0d073eecaab753002e4691c747c9">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_44a7033ce522fec7592b92571fcb5a92884a863b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_62e7a1928ab49593c62e49a4edab3bda6d2e6308/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_96c85f57bcc84f593a1e48b74dcc99616e97f426/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_e280baa6a4e3679f04e4cb49bc00aa6dec3f4d2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_044b21e2c9260493376e7ec3f6b7c313d38118d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_774cbf940e685180954a7cdcc3164750c173bc4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0edd377b7dd0949c486b8e052954ca6406060bd6">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_569f305d1d2e4fca20b6b07a1cf25d48c4fcf0a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_3c637cce1c941c691538f905c95e1ee9c33ad7b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_5ed9db20b70af15d4d553d21444d4f9eb7a0ff4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_4208f4d7439197ebc8fef0303e40693308fa2259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_0ca7495a097be6cce207c05a12373bac6f17b91c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_888ceec53eb8ce172fcc151715c67761967f3c39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_119fc9a322343331eb24adaaa02415ee22eea24c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sgontare/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/sgontare/AndroidStudioProjects/Week1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_df53bf49f561af2bf77e66ef82bd554264ebd8ef/classes.dex" />
+    </item>
+
+</items>
